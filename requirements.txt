@@ -4,3 +4,4 @@ transformers
 nltk
 flask
 moviepy
+os
