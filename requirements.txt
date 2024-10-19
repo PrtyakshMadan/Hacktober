@@ -5,3 +5,4 @@ nltk
 flask
 moviepy
 os
+whisper
